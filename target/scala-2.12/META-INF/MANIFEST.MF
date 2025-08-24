@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: jdk11
+Specification-Version: 1.0
+Specification-Vendor: jdk11
+Implementation-Title: jdk11
+Implementation-Version: 1.0
+Implementation-Vendor: jdk11
+Implementation-Vendor-Id: jdk11
+Main-Class: test
+

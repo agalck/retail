@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(show Compile / packageBin / mainClass, Some(cf9cbc26-0e32-49c6-a41e-4861dfd5a13a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / packageBin / mainClass[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mSome(test)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 22-Aug-2025, 1:01:11 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

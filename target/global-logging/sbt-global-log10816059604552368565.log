@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(jar xf target/scala-2.12/jdk11_2.12-1.0.jar META-INF/MANIFEST.MF, Some(3d51cec4-4489-4191-b273-0625fead5abf), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: jar[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: jar (similar: run, target)[0m
+[0m[[0m[31merror[0m] [0m[0mjar xf target/scala-2.12/jdk11_2.12-1.0.jar META-INF/MANIFEST.MF[0m
+[0m[[0m[31merror[0m] [0m[0m   ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

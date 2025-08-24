@@ -1,0 +1,2 @@
+1755847871841:show Compile / packageBin / mainClass
+1755847919870:jar xf target/scala-2.12/jdk11_2.12-1.0.jar META-INF/MANIFEST.MF
