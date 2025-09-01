@@ -3,6 +3,7 @@ import org.apache.spark.sql.functions._
 object test {
   def main(args: Array[String]): Unit = {
     println("hello")
+    println("hello1")
 
     // Create SparkSession
     val spark = SparkSession.builder()
